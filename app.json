@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+            "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/jth445600/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/jth445600/HerokuXray",
-    "repository": "https://github.com/jth445600/HerokuXray",
+    "website": "https://github.com/bookes123/abcd4567",
+    "repository": "https://github.com/bookes123/abcd4567",
     "stack": "container"
 }
